@@ -57,3 +57,7 @@ git clone https://github.com/yourusername/modernshop.git
 cd modernshop
 npm install
 ```
+---
+```bash
+npm run dev
+```
