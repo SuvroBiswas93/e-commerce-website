@@ -23,7 +23,7 @@ ModernShop is a **modern, responsive e-commerce front-end application** built wi
 ✔️ **Headless UI** components from @headlessui/react.  
 ✔️ **Efficient Data Fetching** with React Query (optional).  
 ✔️ **Clean, Modern, & Fast** dev experience with Vite.  
-(*Actual feature availability may vary based on implementation.*)
+
 
 ---
 
